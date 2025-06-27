@@ -1,0 +1,10 @@
+{
+    "hello": {
+        "version": "1.0",
+        "description": "A simple greeting package"
+    },
+    "boy": {
+        "version": "1.0",
+        "description": "A simple boy package"
+    }
+}
