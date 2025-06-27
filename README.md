@@ -1,0 +1,2 @@
+# mypac
+simple packages managment
